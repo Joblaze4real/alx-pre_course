@@ -1,4 +1,8 @@
 # Created by Joshua Roland
 # AKA Joblaze4real
 
-/.emacs
+# Editors to Ignore
+~/.gitconfig
+$XDG_CONFIG_HOME/git/ignore, $GIT_DIR/info/exclude,.gitignore
+$GIT_DIR/info/exclude
+~/.emacs
